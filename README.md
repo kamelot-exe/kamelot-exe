@@ -97,7 +97,7 @@ focused on systems design, commerce infrastructure, language tech and AI-native 
 
 <br/><br/>
 
-**Telegram:** [@DOWHATUWILT](https://t.me/DOWHATUWILT)  
+ 
 **Website:** [kamelot.site](http://www.kamelot.site/)
 
 </div>
