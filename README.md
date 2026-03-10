@@ -11,11 +11,12 @@
 
 <br/>
 
-[![Website](https://img.shields.io/badge/Website-kamelot.site-111111?style=for-the-badge)](http://www.kamelot.site/)
-[![Telegram](https://img.shields.io/badge/Telegram-@DOWHATUWILT-1E1E1E?style=for-the-badge)](https://t.me/DOWHATUWILT)
-[![Musicboard](https://img.shields.io/badge/Musicboard-kamelot.exe-111111?style=for-the-badge)](https://musicboard.app/kamelot.exe)
-[![stats.fm](https://img.shields.io/badge/stats.fm-kamelot.exe-1E1E1E?style=for-the-badge)](https://stats.fm/kamelot.exe)
-[![Letterboxd](https://img.shields.io/badge/Letterboxd-albert91-111111?style=for-the-badge)](https://letterboxd.com/albert91/)
+[<img src="./assets/social/website.svg" height="42" alt="Website" />](http://www.kamelot.site/)
+[<img src="./assets/social/telegram.svg" height="42" alt="Telegram" />](https://t.me/DOWHATUWILT)
+[<img src="./assets/social/musicboard.svg" height="42" alt="Musicboard" />](https://musicboard.app/kamelot.exe)
+[<img src="./assets/social/statsfm.svg" height="42" alt="stats.fm" />](https://stats.fm/kamelot.exe)
+[<img src="./assets/social/letterboxd.svg" height="42" alt="Letterboxd" />](https://letterboxd.com/albert91/)
+[<img src="./assets/social/steam.svg" height="42" alt="Steam" />](https://steamcommunity.com/profiles/76561199803319225/)
 
 </div>
 
@@ -48,7 +49,7 @@ I like software that feels **sharp, cinematic and intentional**.
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-1E1E1E?style=for-the-badge&logo=tailwindcss&logoColor=F1F1F1)
 ![Framer Motion](https://img.shields.io/badge/Framer_Motion-111111?style=for-the-badge&logo=framer&logoColor=B8B2C8)
 ![Nginx](https://img.shields.io/badge/Nginx-2B2B2B?style=for-the-badge&logo=nginx&logoColor=E5B07A)
-![Linux](https://img.shields.io/badge/Linux-0B0B0B?style=for-the-badge&logo=linux&logoColor=F1F1F1)
+![Python](https://img.shields.io/badge/Python-0B0B0B?style=for-the-badge&logo=python&logoColor=8D6A9F)
 ![Git](https://img.shields.io/badge/Git-1E1E1E?style=for-the-badge&logo=git&logoColor=C86B3C)
 
 </div>

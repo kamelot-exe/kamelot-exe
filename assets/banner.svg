@@ -5,10 +5,10 @@
       <stop offset="0.55" stop-color="#111111"/>
       <stop offset="1" stop-color="#1E1E1E"/>
     </linearGradient>
-    <linearGradient id="accent" x1="240" y1="90" x2="1210" y2="380" gradientUnits="userSpaceOnUse">
-      <stop offset="0" stop-color="#8D6A9F"/>
-      <stop offset="0.62" stop-color="#B8B2C8"/>
-      <stop offset="1" stop-color="#E5B07A"/>
+    <linearGradient id="accent" x1="270" y1="110" x2="1180" y2="390" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#C86B3C"/>
+      <stop offset="0.55" stop-color="#E5B07A"/>
+      <stop offset="1" stop-color="#8D6A9F"/>
     </linearGradient>
     <filter id="blur-lg" x="-200" y="-200" width="2000" height="900" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
       <feGaussianBlur stdDeviation="60"/>
@@ -21,10 +21,10 @@
   <rect width="1600" height="500" fill="url(#bg)"/>
   <rect width="1600" height="500" fill="url(#grid)" opacity="0.38"/>
 
-  <g filter="url(#blur-lg)" opacity="0.72">
-    <circle cx="330" cy="120" r="170" fill="#8D6A9F"/>
+  <g filter="url(#blur-lg)" opacity="0.7">
+    <circle cx="330" cy="120" r="170" fill="#C86B3C"/>
     <circle cx="1220" cy="170" r="210" fill="#8D6A9F"/>
-    <circle cx="920" cy="410" r="180" fill="#B8B2C8"/>
+    <circle cx="920" cy="410" r="180" fill="#E5B07A"/>
   </g>
 
   <path d="M0 405C131 360 234 332 364 340C499 348 600 406 742 405C879 404 970 338 1111 330C1258 321 1385 355 1600 438V500H0V405Z" fill="#0B0B0B" opacity="0.72"/>
@@ -35,25 +35,25 @@
     <path d="M145 270L269 146" stroke="url(#accent)" stroke-width="18" stroke-linecap="round"/>
     <path d="M145 270L255 270" stroke="#F1F1F1" stroke-opacity="0.9" stroke-width="18" stroke-linecap="round"/>
     <path d="M185 310L308 187" stroke="#B8B2C8" stroke-opacity="0.85" stroke-width="10" stroke-linecap="round"/>
-    <circle cx="146" cy="270" r="16" fill="#8D6A9F"/>
-    <circle cx="268" cy="146" r="16" fill="#B8B2C8"/>
+    <circle cx="146" cy="270" r="16" fill="#C86B3C"/>
+    <circle cx="268" cy="146" r="16" fill="#E5B07A"/>
     <circle cx="307" cy="186" r="10" fill="#8D6A9F"/>
   </g>
 
   <text x="360" y="196" fill="#F1F1F1" font-family="'Segoe UI', Arial, sans-serif" font-size="88" font-weight="700" letter-spacing="10">KAMELOT</text>
-  <text x="366" y="248" fill="#B8B2C8" font-family="'Segoe UI', Arial, sans-serif" font-size="24" letter-spacing="5">PROMPT ENGINEER / VIBE CODER / PRODUCT ARCHITECT</text>
-  <text x="366" y="314" fill="#B8B2C8" font-family="'Consolas', 'Courier New', monospace" font-size="28">building systems, interfaces and AI-native products</text>
+  <text x="366" y="248" fill="#B8B2C8" font-family="'Segoe UI', Arial, sans-serif" font-size="24" letter-spacing="5">PROMPT ENGINEER  /  VIBE CODER  /  PRODUCT ARCHITECT</text>
+  <text x="366" y="314" fill="#E5B07A" font-family="'Consolas', 'Courier New', monospace" font-size="28">building systems, interfaces and AI-native products</text>
 
   <rect x="367" y="344" width="168" height="34" rx="17" fill="#0B0B0B" stroke="#2B2B2B"/>
-  <text x="397" y="367" fill="#8D6A9F" font-family="'Consolas', 'Courier New', monospace" font-size="18">kamelot.site</text>
+  <text x="397" y="367" fill="#C86B3C" font-family="'Consolas', 'Courier New', monospace" font-size="18">kamelot.site</text>
 
   <rect x="555" y="344" width="208" height="34" rx="17" fill="#0B0B0B" stroke="#2B2B2B"/>
-  <text x="585" y="367" fill="#B8B2C8" font-family="'Consolas', 'Courier New', monospace" font-size="18">@DOWHATUWILT</text>
+  <text x="585" y="367" fill="#8D6A9F" font-family="'Consolas', 'Courier New', monospace" font-size="18">@DOWHATUWILT</text>
 
   <rect x="1290" y="116" width="150" height="150" rx="20" fill="#0B0B0B" stroke="#2B2B2B"/>
-  <path d="M1330 168H1400" stroke="#8D6A9F" stroke-width="10" stroke-linecap="round"/>
-  <path d="M1330 195H1380" stroke="#B8B2C8" stroke-width="10" stroke-linecap="round"/>
-  <path d="M1330 222H1410" stroke="#E5B07A" stroke-width="10" stroke-linecap="round"/>
+  <path d="M1330 168H1400" stroke="#C86B3C" stroke-width="10" stroke-linecap="round"/>
+  <path d="M1330 195H1380" stroke="#E5B07A" stroke-width="10" stroke-linecap="round"/>
+  <path d="M1330 222H1410" stroke="#B8B2C8" stroke-width="10" stroke-linecap="round"/>
   <text x="1328" y="300" fill="#F1F1F1" font-family="'Segoe UI', Arial, sans-serif" font-size="16" letter-spacing="3">AI NATIVE</text>
 
   <text x="1293" y="372" fill="#8D6A9F" font-family="'Consolas', 'Courier New', monospace" font-size="15">sharp / cinematic / intentional</text>
