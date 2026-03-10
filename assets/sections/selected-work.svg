@@ -1,0 +1,5 @@
+<svg width="380" height="56" viewBox="0 0 380 56" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect x="1" y="1" width="378" height="54" rx="16" fill="#111111" stroke="#2B2B2B"/>
+  <text x="24" y="36" fill="#8D6A9F" font-family="'Segoe UI', Arial, sans-serif" font-size="26" font-weight="700" letter-spacing="2">Selected Work</text>
+  <path d="M219 28H350" stroke="#8D6A9F" stroke-width="2" stroke-linecap="round" opacity="0.7"/>
+</svg>

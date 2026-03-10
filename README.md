@@ -13,12 +13,15 @@
 
 [![Website](https://img.shields.io/badge/Website-kamelot.site-111111?style=for-the-badge)](http://www.kamelot.site/)
 [![Telegram](https://img.shields.io/badge/Telegram-@DOWHATUWILT-1E1E1E?style=for-the-badge)](https://t.me/DOWHATUWILT)
+[![Musicboard](https://img.shields.io/badge/Musicboard-kamelot.exe-111111?style=for-the-badge)](https://musicboard.app/kamelot.exe)
+[![stats.fm](https://img.shields.io/badge/stats.fm-kamelot.exe-1E1E1E?style=for-the-badge)](https://stats.fm/kamelot.exe)
+[![Letterboxd](https://img.shields.io/badge/Letterboxd-albert91-111111?style=for-the-badge)](https://letterboxd.com/albert91/)
 
 </div>
 
 ---
 
-## /about
+<img src="./assets/sections/about.svg" alt="About" height="34" />
 
 I build digital products with a strong focus on:
 
@@ -33,7 +36,7 @@ I like software that feels **sharp, cinematic and intentional**.
 
 ---
 
-## /stack
+<img src="./assets/sections/stack.svg" alt="Stack" height="34" />
 
 <div align="center">
 
@@ -52,14 +55,14 @@ I like software that feels **sharp, cinematic and intentional**.
 
 ---
 
-## /current-public-work
+<img src="./assets/sections/current-public-work.svg" alt="Current Public Work" height="34" />
 
 ### Prism Calendar
 Open-source calendar / productivity system focused on clarity, flow and modern desktop UX.
 
 ---
 
-## /selected-work
+<img src="./assets/sections/selected-work.svg" alt="Selected Work" height="34" />
 
 Not everything I build is public.
 
@@ -68,28 +71,28 @@ focused on systems design, commerce infrastructure, language tech and AI-native 
 
 ---
 
-## /stats
+<img src="./assets/sections/stats.svg" alt="Stats" height="34" />
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=kamelot-exe&show_icons=true&hide_border=true&bg_color=00000000&title_color=C86B3C&text_color=B8B2C8&icon_color=C86B3C&ring_color=C86B3C" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamelot-exe&layout=compact&hide_border=true&bg_color=00000000&title_color=C86B3C&text_color=B8B2C8" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=kamelot-exe&show_icons=true&hide_border=true&bg_color=00000000&title_color=8D6A9F&text_color=B8B2C8&icon_color=8D6A9F&ring_color=8D6A9F" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamelot-exe&layout=compact&hide_border=true&bg_color=00000000&title_color=8D6A9F&text_color=B8B2C8" />
 
 </div>
 
 ---
 
-## /activity
+<img src="./assets/sections/activity.svg" alt="Activity" height="34" />
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=kamelot-exe&hide_border=true&background=00000000&ring=C86B3C&fire=C86B3C&currStreakLabel=B8B2C8&sideLabels=B8B2C8&currStreakNum=E5B07A&sideNums=E5B07A&dates=8D6A9F" />
+<img src="https://streak-stats.demolab.com?user=kamelot-exe&hide_border=true&background=00000000&ring=8D6A9F&fire=8D6A9F&currStreakLabel=B8B2C8&sideLabels=B8B2C8&currStreakNum=E5B07A&sideNums=E5B07A&dates=8D6A9F" />
 
 </div>
 
 ---
 
-## /signal
+<img src="./assets/sections/signal.svg" alt="Signal" height="34" />
 
 <div align="center">
 
@@ -97,14 +100,13 @@ focused on systems design, commerce infrastructure, language tech and AI-native 
 
 <br/><br/>
 
- 
 **Website:** [kamelot.site](http://www.kamelot.site/)
 
 </div>
 
 ---
 
-## /philosophy
+<img src="./assets/sections/philosophy.svg" alt="Philosophy" height="34" />
 
 > Build what should exist.
 
