@@ -41,18 +41,18 @@ I like software that feels **sharp, cinematic and intentional**.
 
 <div align="center">
 
-![Next.js](https://img.shields.io/badge/Next.js-0B0B0B?style=for-the-badge&logo=nextdotjs&logoColor=F1F1F1)
-![TypeScript](https://img.shields.io/badge/TypeScript-111111?style=for-the-badge&logo=typescript&logoColor=8D6A9F)
-![React](https://img.shields.io/badge/React-1E1E1E?style=for-the-badge&logo=react&logoColor=B8B2C8)
-![Node.js](https://img.shields.io/badge/Node.js-2B2B2B?style=for-the-badge&logo=node.js&logoColor=C86B3C)
-![MySQL](https://img.shields.io/badge/MySQL-111111?style=for-the-badge&logo=mysql&logoColor=E5B07A)
-![Figma](https://img.shields.io/badge/Figma-1E1E1E?style=for-the-badge&logo=figma&logoColor=C86B3C)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-1E1E1E?style=for-the-badge&logo=tailwindcss&logoColor=F1F1F1)
-![Framer Motion](https://img.shields.io/badge/Framer_Motion-111111?style=for-the-badge&logo=framer&logoColor=8D6A9F)
-![Nginx](https://img.shields.io/badge/Nginx-2B2B2B?style=for-the-badge&logo=nginx&logoColor=E5B07A)
-![Python](https://img.shields.io/badge/Python-0B0B0B?style=for-the-badge&logo=python&logoColor=8D6A9F)
-![Excel](https://img.shields.io/badge/Excel-111111?style=for-the-badge&logo=microsoftexcel&logoColor=8D6A9F)
-![Git](https://img.shields.io/badge/Git-1E1E1E?style=for-the-badge&logo=git&logoColor=C86B3C)
+<img height="42" alt="Next.js" src="https://img.shields.io/badge/Next.js-0B0B0B?style=for-the-badge&logo=nextdotjs&logoColor=F1F1F1" />
+<img height="42" alt="TypeScript" src="https://img.shields.io/badge/TypeScript-111111?style=for-the-badge&logo=typescript&logoColor=8D6A9F" />
+<img height="42" alt="React" src="https://img.shields.io/badge/React-1E1E1E?style=for-the-badge&logo=react&logoColor=B8B2C8" />
+<img height="42" alt="Node.js" src="https://img.shields.io/badge/Node.js-2B2B2B?style=for-the-badge&logo=node.js&logoColor=C86B3C" />
+<img height="42" alt="MySQL" src="https://img.shields.io/badge/MySQL-111111?style=for-the-badge&logo=mysql&logoColor=E5B07A" />
+<img height="42" alt="Figma" src="https://img.shields.io/badge/Figma-1E1E1E?style=for-the-badge&logo=figma&logoColor=C86B3C" />
+<img height="42" alt="TailwindCSS" src="https://img.shields.io/badge/TailwindCSS-1E1E1E?style=for-the-badge&logo=tailwindcss&logoColor=F1F1F1" />
+<img height="42" alt="Framer Motion" src="https://img.shields.io/badge/Framer_Motion-111111?style=for-the-badge&logo=framer&logoColor=8D6A9F" />
+<img height="42" alt="Nginx" src="https://img.shields.io/badge/Nginx-2B2B2B?style=for-the-badge&logo=nginx&logoColor=E5B07A" />
+<img height="42" alt="Python" src="https://img.shields.io/badge/Python-0B0B0B?style=for-the-badge&logo=python&logoColor=8D6A9F" />
+<img height="42" alt="Excel" src="https://img.shields.io/badge/Excel-111111?style=for-the-badge&logo=microsoftexcel&logoColor=8D6A9F" />
+<img height="42" alt="Git" src="https://img.shields.io/badge/Git-1E1E1E?style=for-the-badge&logo=git&logoColor=C86B3C" />
 
 </div>
 
