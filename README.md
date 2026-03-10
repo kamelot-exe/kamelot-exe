@@ -46,10 +46,12 @@ I like software that feels **sharp, cinematic and intentional**.
 ![React](https://img.shields.io/badge/React-1E1E1E?style=for-the-badge&logo=react&logoColor=B8B2C8)
 ![Node.js](https://img.shields.io/badge/Node.js-2B2B2B?style=for-the-badge&logo=node.js&logoColor=C86B3C)
 ![MySQL](https://img.shields.io/badge/MySQL-111111?style=for-the-badge&logo=mysql&logoColor=E5B07A)
+![Figma](https://img.shields.io/badge/Figma-1E1E1E?style=for-the-badge&logo=figma&logoColor=C86B3C)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-1E1E1E?style=for-the-badge&logo=tailwindcss&logoColor=F1F1F1)
 ![Framer Motion](https://img.shields.io/badge/Framer_Motion-111111?style=for-the-badge&logo=framer&logoColor=8D6A9F)
 ![Nginx](https://img.shields.io/badge/Nginx-2B2B2B?style=for-the-badge&logo=nginx&logoColor=E5B07A)
 ![Python](https://img.shields.io/badge/Python-0B0B0B?style=for-the-badge&logo=python&logoColor=8D6A9F)
+![Excel](https://img.shields.io/badge/Excel-111111?style=for-the-badge&logo=microsoftexcel&logoColor=8D6A9F)
 ![Git](https://img.shields.io/badge/Git-1E1E1E?style=for-the-badge&logo=git&logoColor=C86B3C)
 
 </div>
