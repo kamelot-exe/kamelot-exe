@@ -42,12 +42,12 @@ I like software that feels **sharp, cinematic and intentional**.
 <div align="center">
 
 ![Next.js](https://img.shields.io/badge/Next.js-0B0B0B?style=for-the-badge&logo=nextdotjs&logoColor=F1F1F1)
-![TypeScript](https://img.shields.io/badge/TypeScript-111111?style=for-the-badge&logo=typescript&logoColor=E5B07A)
+![TypeScript](https://img.shields.io/badge/TypeScript-111111?style=for-the-badge&logo=typescript&logoColor=8D6A9F)
 ![React](https://img.shields.io/badge/React-1E1E1E?style=for-the-badge&logo=react&logoColor=B8B2C8)
-![Node.js](https://img.shields.io/badge/Node.js-2B2B2B?style=for-the-badge&logo=node.js&logoColor=E5B07A)
-![MySQL](https://img.shields.io/badge/MySQL-111111?style=for-the-badge&logo=mysql&logoColor=C86B3C)
+![Node.js](https://img.shields.io/badge/Node.js-2B2B2B?style=for-the-badge&logo=node.js&logoColor=C86B3C)
+![MySQL](https://img.shields.io/badge/MySQL-111111?style=for-the-badge&logo=mysql&logoColor=E5B07A)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-1E1E1E?style=for-the-badge&logo=tailwindcss&logoColor=F1F1F1)
-![Framer Motion](https://img.shields.io/badge/Framer_Motion-111111?style=for-the-badge&logo=framer&logoColor=B8B2C8)
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-111111?style=for-the-badge&logo=framer&logoColor=8D6A9F)
 ![Nginx](https://img.shields.io/badge/Nginx-2B2B2B?style=for-the-badge&logo=nginx&logoColor=E5B07A)
 ![Python](https://img.shields.io/badge/Python-0B0B0B?style=for-the-badge&logo=python&logoColor=8D6A9F)
 ![Git](https://img.shields.io/badge/Git-1E1E1E?style=for-the-badge&logo=git&logoColor=C86B3C)
