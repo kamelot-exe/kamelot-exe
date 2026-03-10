@@ -1,0 +1,60 @@
+<svg width="1600" height="500" viewBox="0 0 1600 500" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1600" y2="500" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#0B0B0B"/>
+      <stop offset="0.55" stop-color="#111111"/>
+      <stop offset="1" stop-color="#1E1E1E"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="220" y1="96" x2="1260" y2="384" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#C86B3C"/>
+      <stop offset="0.54" stop-color="#E5B07A"/>
+      <stop offset="1" stop-color="#8D6A9F"/>
+    </linearGradient>
+    <filter id="blur-lg" x="-200" y="-200" width="2000" height="900" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+      <feGaussianBlur stdDeviation="60"/>
+    </filter>
+    <pattern id="grid" width="48" height="48" patternUnits="userSpaceOnUse">
+      <path d="M48 0H0V48" stroke="#2B2B2B" stroke-width="1"/>
+    </pattern>
+  </defs>
+
+  <rect width="1600" height="500" fill="url(#bg)"/>
+  <rect width="1600" height="500" fill="url(#grid)" opacity="0.38"/>
+
+  <g filter="url(#blur-lg)" opacity="0.7">
+    <circle cx="328" cy="118" r="168" fill="#C86B3C"/>
+    <circle cx="1216" cy="168" r="208" fill="#8D6A9F"/>
+    <circle cx="920" cy="404" r="176" fill="#E5B07A"/>
+  </g>
+
+  <path d="M0 402C134 359 243 330 373 338C506 346 603 403 741 403C882 403 975 337 1116 330C1255 323 1382 354 1600 436V500H0V402Z" fill="#0B0B0B" opacity="0.72"/>
+
+  <rect x="90" y="84" width="1420" height="330" rx="28" fill="#111111" fill-opacity="0.58" stroke="#2B2B2B"/>
+
+  <g opacity="0.96">
+    <path d="M146 270L270 146" stroke="url(#accent)" stroke-width="18" stroke-linecap="round"/>
+    <path d="M146 270L258 270" stroke="#F1F1F1" stroke-opacity="0.92" stroke-width="18" stroke-linecap="round"/>
+    <path d="M188 312L310 190" stroke="#B8B2C8" stroke-opacity="0.86" stroke-width="10" stroke-linecap="round"/>
+    <circle cx="146" cy="270" r="16" fill="#C86B3C"/>
+    <circle cx="270" cy="146" r="16" fill="#E5B07A"/>
+    <circle cx="310" cy="190" r="10" fill="#8D6A9F"/>
+  </g>
+
+  <text x="360" y="194" fill="#F1F1F1" font-family="'Segoe UI', Arial, sans-serif" font-size="88" font-weight="700" letter-spacing="10">KAMELOT</text>
+  <text x="366" y="248" fill="#B8B2C8" font-family="'Segoe UI', Arial, sans-serif" font-size="24" letter-spacing="5">PROMPT ENGINEER / VIBE CODER / PRODUCT ARCHITECT</text>
+  <text x="366" y="316" fill="#E5B07A" font-family="'Consolas', 'Courier New', monospace" font-size="28">building systems, interfaces and AI-native products</text>
+
+  <rect x="366" y="346" width="170" height="34" rx="17" fill="#0B0B0B" stroke="#2B2B2B"/>
+  <text x="396" y="369" fill="#C86B3C" font-family="'Consolas', 'Courier New', monospace" font-size="18">kamelot.site</text>
+
+  <rect x="554" y="346" width="208" height="34" rx="17" fill="#0B0B0B" stroke="#2B2B2B"/>
+  <text x="584" y="369" fill="#8D6A9F" font-family="'Consolas', 'Courier New', monospace" font-size="18">@DOWHATUWILT</text>
+
+  <rect x="1288" y="114" width="154" height="154" rx="20" fill="#0B0B0B" stroke="#2B2B2B"/>
+  <path d="M1328 168H1402" stroke="#C86B3C" stroke-width="10" stroke-linecap="round"/>
+  <path d="M1328 196H1384" stroke="#E5B07A" stroke-width="10" stroke-linecap="round"/>
+  <path d="M1328 224H1412" stroke="#B8B2C8" stroke-width="10" stroke-linecap="round"/>
+  <text x="1326" y="304" fill="#F1F1F1" font-family="'Segoe UI', Arial, sans-serif" font-size="16" letter-spacing="3">AI NATIVE</text>
+
+  <text x="1289" y="374" fill="#8D6A9F" font-family="'Consolas', 'Courier New', monospace" font-size="15">sharp / cinematic / intentional</text>
+</svg>
