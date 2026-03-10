@@ -9,15 +9,6 @@
 
 `building systems, interfaces and AI-native products`
 
-<br/>
-
-[<img src="./assets/social/website.svg" height="50" alt="Website" />](http://www.kamelot.site/)
-[<img src="./assets/social/telegram.svg" height="50" alt="Telegram" />](https://t.me/DOWHATUWILT)
-[<img src="./assets/social/musicboard.svg" height="50" alt="Musicboard" />](https://musicboard.app/kamelot.exe)
-[<img src="./assets/social/statsfm.svg" height="50" alt="stats.fm" />](https://stats.fm/kamelot.exe)
-[<img src="./assets/social/letterboxd.svg" height="50" alt="Letterboxd" />](https://letterboxd.com/albert91/)
-[<img src="./assets/social/steam.svg" height="50" alt="Steam" />](https://steamcommunity.com/profiles/76561199803319225/)
-
 </div>
 
 ---
@@ -87,8 +78,8 @@ focused on systems design, commerce infrastructure, language tech and AI-native 
 
 <div align="center">
 
-<img height="190" src="https://github-readme-stats.vercel.app/api?username=kamelot-exe&show_icons=true&hide_border=true&bg_color=00000000&title_color=C86B3C&text_color=B8B2C8&icon_color=C86B3C&ring_color=C86B3C&cache_seconds=21600" />
-<img height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamelot-exe&layout=compact&hide_border=true&bg_color=00000000&title_color=C86B3C&text_color=B8B2C8&hide=dart&cache_seconds=21600" />
+<img height="190" src="https://github-readme-stats.vercel.app/api?username=kamelot-exe&show_icons=true&hide_border=true&bg_color=00000000&title_color=C86B3C&text_color=B8B2C8&icon_color=C86B3C&ring_color=C86B3C&cache_seconds=3600&include_all_commits=true" />
+<img height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamelot-exe&layout=compact&hide_border=true&bg_color=00000000&title_color=C86B3C&text_color=B8B2C8&hide=dart&cache_seconds=3600&langs_count=8" />
 
 </div>
 
@@ -112,7 +103,12 @@ focused on systems design, commerce infrastructure, language tech and AI-native 
 
 <br/><br/>
 
-**Website:** [kamelot.site](http://www.kamelot.site/)
+[<img src="./assets/social/website.svg" height="50" alt="Website" />](http://www.kamelot.site/)
+[<img src="./assets/social/telegram.svg" height="50" alt="Telegram" />](https://t.me/DOWHATUWILT)
+[<img src="./assets/social/musicboard.svg" height="50" alt="Musicboard" />](https://musicboard.app/kamelot.exe)
+[<img src="./assets/social/statsfm.svg" height="50" alt="stats.fm" />](https://stats.fm/kamelot.exe)
+[<img src="./assets/social/letterboxd.svg" height="50" alt="Letterboxd" />](https://letterboxd.com/albert91/)
+[<img src="./assets/social/steam.svg" height="50" alt="Steam" />](https://steamcommunity.com/profiles/76561199803319225/)
 
 </div>
 
