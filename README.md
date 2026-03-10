@@ -24,16 +24,18 @@
 
 <img src="./assets/sections/about.svg" alt="About" height="42" />
 
-I build digital products with a strong focus on:
+<h3 align="left">I build digital products with a strong focus on:</h3>
 
-- prompt engineering
-- vibe coding
-- product systems
-- interface design
-- AI-assisted workflows
-- full-stack web architecture
+<h3 align="left">
+prompt engineering<br/>
+vibe coding<br/>
+product systems<br/>
+interface design<br/>
+AI-assisted workflows<br/>
+full-stack web architecture
+</h3>
 
-I like software that feels **sharp, cinematic and intentional**.
+<h3 align="left">I like software that feels <strong>sharp, cinematic and intentional</strong>.</h3>
 
 ---
 
@@ -41,18 +43,18 @@ I like software that feels **sharp, cinematic and intentional**.
 
 <div align="center">
 
-<img height="42" alt="Next.js" src="https://img.shields.io/badge/Next.js-0B0B0B?style=for-the-badge&logo=nextdotjs&logoColor=F1F1F1" />
-<img height="42" alt="TypeScript" src="https://img.shields.io/badge/TypeScript-111111?style=for-the-badge&logo=typescript&logoColor=8D6A9F" />
-<img height="42" alt="React" src="https://img.shields.io/badge/React-1E1E1E?style=for-the-badge&logo=react&logoColor=B8B2C8" />
-<img height="42" alt="Node.js" src="https://img.shields.io/badge/Node.js-2B2B2B?style=for-the-badge&logo=node.js&logoColor=C86B3C" />
-<img height="42" alt="MySQL" src="https://img.shields.io/badge/MySQL-111111?style=for-the-badge&logo=mysql&logoColor=E5B07A" />
-<img height="42" alt="Figma" src="https://img.shields.io/badge/Figma-1E1E1E?style=for-the-badge&logo=figma&logoColor=C86B3C" />
-<img height="42" alt="TailwindCSS" src="https://img.shields.io/badge/TailwindCSS-1E1E1E?style=for-the-badge&logo=tailwindcss&logoColor=F1F1F1" />
-<img height="42" alt="Framer Motion" src="https://img.shields.io/badge/Framer_Motion-111111?style=for-the-badge&logo=framer&logoColor=8D6A9F" />
-<img height="42" alt="Nginx" src="https://img.shields.io/badge/Nginx-2B2B2B?style=for-the-badge&logo=nginx&logoColor=E5B07A" />
-<img height="42" alt="Python" src="https://img.shields.io/badge/Python-0B0B0B?style=for-the-badge&logo=python&logoColor=8D6A9F" />
-<img height="42" alt="Excel" src="https://img.shields.io/badge/Excel-111111?style=for-the-badge&logo=microsoftexcel&logoColor=8D6A9F" />
-<img height="42" alt="Git" src="https://img.shields.io/badge/Git-1E1E1E?style=for-the-badge&logo=git&logoColor=C86B3C" />
+<img height="84" alt="Next.js" src="https://img.shields.io/badge/Next.js-0B0B0B?style=for-the-badge&logo=nextdotjs&logoColor=F1F1F1" />
+<img height="84" alt="TypeScript" src="https://img.shields.io/badge/TypeScript-111111?style=for-the-badge&logo=typescript&logoColor=8D6A9F" />
+<img height="84" alt="React" src="https://img.shields.io/badge/React-1E1E1E?style=for-the-badge&logo=react&logoColor=B8B2C8" />
+<img height="84" alt="Node.js" src="https://img.shields.io/badge/Node.js-2B2B2B?style=for-the-badge&logo=node.js&logoColor=C86B3C" />
+<img height="84" alt="MySQL" src="https://img.shields.io/badge/MySQL-111111?style=for-the-badge&logo=mysql&logoColor=E5B07A" />
+<img height="84" alt="Figma" src="https://img.shields.io/badge/Figma-1E1E1E?style=for-the-badge&logo=figma&logoColor=C86B3C" />
+<img height="84" alt="TailwindCSS" src="https://img.shields.io/badge/TailwindCSS-1E1E1E?style=for-the-badge&logo=tailwindcss&logoColor=F1F1F1" />
+<img height="84" alt="Framer Motion" src="https://img.shields.io/badge/Framer_Motion-111111?style=for-the-badge&logo=framer&logoColor=8D6A9F" />
+<img height="84" alt="Nginx" src="https://img.shields.io/badge/Nginx-2B2B2B?style=for-the-badge&logo=nginx&logoColor=E5B07A" />
+<img height="84" alt="Python" src="https://img.shields.io/badge/Python-0B0B0B?style=for-the-badge&logo=python&logoColor=8D6A9F" />
+<img height="84" alt="Excel" src="https://img.shields.io/badge/Excel-111111?style=for-the-badge&logo=microsoftexcel&logoColor=8D6A9F" />
+<img height="84" alt="Git" src="https://img.shields.io/badge/Git-1E1E1E?style=for-the-badge&logo=git&logoColor=C86B3C" />
 
 </div>
 
@@ -60,17 +62,24 @@ I like software that feels **sharp, cinematic and intentional**.
 
 <img src="./assets/sections/current-public-work.svg" alt="Current Public Work" height="42" />
 
-### Prism Calendar
-Open-source calendar / productivity system focused on clarity, flow and modern desktop UX.
+<h3 align="left">Prism Calendar</h3>
+
+<h3 align="left">
+Prism Calendar is a local-first desktop productivity calendar built for time-blocking and deep work.<br/>
+It unifies calendar scheduling, task management, focus sessions, and planning tools into a single keyboard-first workflow.<br/>
+Powered by Tauri, Svelte, Rust, and SQLite, Prism is fast, fully offline, and keeps your data entirely on your device.
+</h3>
 
 ---
 
 <img src="./assets/sections/selected-work.svg" alt="Selected Work" height="42" />
 
-Not everything I build is public.
+<h3 align="left">Not everything I build is public.</h3>
 
-Some projects stay private, internal or experimental  
+<h3 align="left">
+Some projects stay private, internal or experimental<br/>
 focused on systems design, commerce infrastructure, language tech and AI-native workflows.
+</h3>
 
 ---
 
@@ -78,8 +87,8 @@ focused on systems design, commerce infrastructure, language tech and AI-native 
 
 <div align="center">
 
-<img height="190" src="https://github-readme-stats.vercel.app/api?username=kamelot-exe&show_icons=true&hide_border=true&bg_color=00000000&title_color=8D6A9F&text_color=B8B2C8&icon_color=8D6A9F&ring_color=8D6A9F" />
-<img height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamelot-exe&layout=compact&hide_border=true&bg_color=00000000&title_color=8D6A9F&text_color=B8B2C8" />
+<img height="190" src="https://github-readme-stats.vercel.app/api?username=kamelot-exe&show_icons=true&hide_border=true&bg_color=00000000&title_color=C86B3C&text_color=B8B2C8&icon_color=C86B3C&ring_color=C86B3C&cache_seconds=21600" />
+<img height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamelot-exe&layout=compact&hide_border=true&bg_color=00000000&title_color=C86B3C&text_color=B8B2C8&hide=dart&cache_seconds=21600" />
 
 </div>
 
