@@ -1,60 +1,53 @@
 <svg width="1600" height="500" viewBox="0 0 1600 500" fill="none" xmlns="http://www.w3.org/2000/svg">
   <defs>
-    <linearGradient id="bg" x1="0" y1="0" x2="1600" y2="500" gradientUnits="userSpaceOnUse">
-      <stop offset="0" stop-color="#0B0B0B"/>
-      <stop offset="0.55" stop-color="#111111"/>
-      <stop offset="1" stop-color="#1E1E1E"/>
+    <linearGradient id="accent" x1="0" y1="0" x2="1600" y2="500" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#1A1A1A"></stop>
+      <stop offset="0.35" stop-color="#262626"></stop>
+      <stop offset="0.7" stop-color="#6E3B2A"></stop>
+      <stop offset="1" stop-color="#8D6A9F"></stop>
     </linearGradient>
-    <linearGradient id="accent" x1="270" y1="110" x2="1180" y2="390" gradientUnits="userSpaceOnUse">
-      <stop offset="0" stop-color="#C86B3C"/>
-      <stop offset="0.55" stop-color="#E5B07A"/>
-      <stop offset="1" stop-color="#8D6A9F"/>
+
+    <linearGradient id="soft" x1="200" y1="60" x2="1300" y2="420" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#E7E7E7" stop-opacity="0.10"></stop>
+      <stop offset="1" stop-color="#FFFFFF" stop-opacity="0.02"></stop>
     </linearGradient>
-    <filter id="blur-lg" x="-200" y="-200" width="2000" height="900" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
-      <feGaussianBlur stdDeviation="60"/>
+
+    <filter id="blurGlass" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="18"></feGaussianBlur>
     </filter>
-    <pattern id="grid" width="48" height="48" patternUnits="userSpaceOnUse">
-      <path d="M48 0H0V48" stroke="#2B2B2B" stroke-width="1"/>
-    </pattern>
+
+    <filter id="grain">
+      <feTurbulence type="fractalNoise" baseFrequency="0.85" numOctaves="2" stitchTiles="stitch"></feTurbulence>
+      <feColorMatrix type="saturate" values="0"></feColorMatrix>
+      <feComponentTransfer>
+        <feFuncA type="table" tableValues="0 0.06"></feFuncA>
+      </feComponentTransfer>
+    </filter>
   </defs>
 
-  <rect width="1600" height="500" fill="url(#bg)"/>
-  <rect width="1600" height="500" fill="url(#grid)" opacity="0.38"/>
+  <rect width="1600" height="500" fill="#0B0B0B"></rect>
+  <rect width="1600" height="500" fill="url(#accent)" opacity="0.14"></rect>
 
-  <g filter="url(#blur-lg)" opacity="0.7">
-    <circle cx="330" cy="120" r="170" fill="#C86B3C"/>
-    <circle cx="1220" cy="170" r="210" fill="#8D6A9F"/>
-    <circle cx="920" cy="410" r="180" fill="#E5B07A"/>
-  </g>
+  <rect x="70" y="60" width="1460" height="380" rx="28" fill="#111111" stroke="#2E2E2E"></rect>
+  <rect x="70" y="60" width="1460" height="380" rx="28" fill="url(#soft)" filter="url(#blurGlass)"></rect>
 
-  <path d="M0 405C131 360 234 332 364 340C499 348 600 406 742 405C879 404 970 338 1111 330C1258 321 1385 355 1600 438V500H0V405Z" fill="#0B0B0B" opacity="0.72"/>
+  <rect x="110" y="105" width="220" height="10" rx="5" fill="#C86B3C"></rect>
+  <rect x="110" y="125" width="120" height="10" rx="5" fill="#8D6A9F"></rect>
 
-  <rect x="90" y="86" width="1420" height="328" rx="28" fill="#111111" fill-opacity="0.58" stroke="#2B2B2B"/>
+  <text x="110" y="220" fill="#F1F1F1" font-size="74" font-family="Arial, Helvetica, sans-serif" font-weight="700">ALBERT</text>
+  <text x="110" y="275" fill="#B8B2C8" font-size="28" font-family="Arial, Helvetica, sans-serif" letter-spacing="2">PROMPT ENGINEER • VIBE CODER • PRODUCT ARCHITECT</text>
 
-  <g opacity="0.95">
-    <path d="M145 270L269 146" stroke="url(#accent)" stroke-width="18" stroke-linecap="round"/>
-    <path d="M145 270L255 270" stroke="#F1F1F1" stroke-opacity="0.9" stroke-width="18" stroke-linecap="round"/>
-    <path d="M185 310L308 187" stroke="#B8B2C8" stroke-opacity="0.85" stroke-width="10" stroke-linecap="round"/>
-    <circle cx="146" cy="270" r="16" fill="#C86B3C"/>
-    <circle cx="268" cy="146" r="16" fill="#E5B07A"/>
-    <circle cx="307" cy="186" r="10" fill="#8D6A9F"/>
-  </g>
+  <text x="110" y="340" fill="#8E8E8E" font-size="22" font-family="Arial, Helvetica, sans-serif">dark systems / AI-native workflows / brutal interfaces / intentional products</text>
 
-  <text x="360" y="196" fill="#F1F1F1" font-family="'Segoe UI', Arial, sans-serif" font-size="88" font-weight="700" letter-spacing="10">KAMELOT</text>
-  <text x="366" y="248" fill="#B8B2C8" font-family="'Segoe UI', Arial, sans-serif" font-size="24" letter-spacing="5">PROMPT ENGINEER  /  VIBE CODER  /  PRODUCT ARCHITECT</text>
-  <text x="366" y="314" fill="#E5B07A" font-family="'Consolas', 'Courier New', monospace" font-size="28">building systems, interfaces and AI-native products</text>
+  <rect x="1120" y="105" width="290" height="220" rx="24" fill="#151515" stroke="#313131"></rect>
+  <rect x="1150" y="135" width="90" height="90" rx="18" fill="#C86B3C" opacity="0.9"></rect>
+  <rect x="1255" y="135" width="125" height="28" rx="14" fill="#2B2B2B"></rect>
+  <rect x="1255" y="176" width="95" height="18" rx="9" fill="#8D6A9F" opacity="0.85"></rect>
+  <rect x="1150" y="248" width="230" height="20" rx="10" fill="#232323"></rect>
+  <rect x="1150" y="282" width="180" height="20" rx="10" fill="#232323"></rect>
 
-  <rect x="367" y="344" width="168" height="34" rx="17" fill="#0B0B0B" stroke="#2B2B2B"/>
-  <text x="397" y="367" fill="#C86B3C" font-family="'Consolas', 'Courier New', monospace" font-size="18">kamelot.site</text>
+  <rect x="1080" y="355" width="330" height="42" rx="21" fill="#131313" stroke="#353535"></rect>
+  <text x="1110" y="382" fill="#E5B07A" font-size="20" font-family="Arial, Helvetica, sans-serif">build what should exist</text>
 
-  <rect x="555" y="344" width="208" height="34" rx="17" fill="#0B0B0B" stroke="#2B2B2B"/>
-  <text x="585" y="367" fill="#8D6A9F" font-family="'Consolas', 'Courier New', monospace" font-size="18">@DOWHATUWILT</text>
-
-  <rect x="1290" y="116" width="150" height="150" rx="20" fill="#0B0B0B" stroke="#2B2B2B"/>
-  <path d="M1330 168H1400" stroke="#C86B3C" stroke-width="10" stroke-linecap="round"/>
-  <path d="M1330 195H1380" stroke="#E5B07A" stroke-width="10" stroke-linecap="round"/>
-  <path d="M1330 222H1410" stroke="#B8B2C8" stroke-width="10" stroke-linecap="round"/>
-  <text x="1328" y="300" fill="#F1F1F1" font-family="'Segoe UI', Arial, sans-serif" font-size="16" letter-spacing="3">AI NATIVE</text>
-
-  <text x="1293" y="372" fill="#8D6A9F" font-family="'Consolas', 'Courier New', monospace" font-size="15">sharp / cinematic / intentional</text>
+  <rect width="1600" height="500" filter="url(#grain)" opacity="0.35"></rect>
 </svg>
