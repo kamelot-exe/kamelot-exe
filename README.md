@@ -61,6 +61,14 @@ It unifies calendar scheduling, task management, focus sessions, and planning to
 Powered by Tauri, Svelte, Rust, and SQLite, Prism is fast, fully offline, and keeps your data entirely on your device.
 </h3>
 
+<h3 align="left">ControlMe</h3>
+
+<h3 align="left">
+ControlMe is an open-source web project for tracking subscriptions and other recurring expenses.<br/>
+The goal of the project is simple: give users a clear view of what renews, when it renews, and how recurring costs change over time.<br/>
+It is built as a lightweight alternative to bloated finance products and is meant to stay understandable both as an app and as a public codebase.
+</h3>
+
 ---
 
 <img src="./assets/sections/selected-work.svg" alt="Selected Work" height="42" />
