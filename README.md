@@ -53,7 +53,7 @@ full-stack web architecture
 
 <img src="./assets/sections/current-public-work.svg" alt="Current Public Work" height="42" />
 
-<h3 align="left">Prism Calendar</h3>
+<h3 align="left"><span style="color:#8D6A9F;">Prism Calendar</span></h3>
 
 <h3 align="left">
 Prism Calendar is a local-first desktop productivity calendar built for time-blocking and deep work.<br/>
@@ -61,7 +61,7 @@ It unifies calendar scheduling, task management, focus sessions, and planning to
 Powered by Tauri, Svelte, Rust, and SQLite, Prism is fast, fully offline, and keeps your data entirely on your device.
 </h3>
 
-<h3 align="left">ControlMe</h3>
+<h3 align="left"><span style="color:#8D6A9F;">ControlMe</span></h3>
 
 <h3 align="left">
 ControlMe is an open-source web project for tracking subscriptions and other recurring expenses.<br/>
