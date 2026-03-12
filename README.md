@@ -69,6 +69,13 @@ The goal of the project is simple: give users a clear view of what renews, when 
 It is built as a lightweight alternative to bloated finance products and is meant to stay understandable both as an app and as a public codebase.
 </h3>
 
+<h3 align="left"><span style="color:#8D6A9F;">Kamelot Keyboard</span></h3>
+
+<h3 align="left">
+Kamelot Keyboard is a private, deeply customizable Android keyboard built for people who want more control over how typing feels, looks, and works.<br/>
+It combines privacy-first design, powerful gesture controls, modular profiles, and rich customization into one keyboard that can adapt to different workflows, apps, and preferences.
+</h3>
+
 ---
 
 <img src="./assets/sections/selected-work.svg" alt="Selected Work" height="42" />
@@ -86,8 +93,8 @@ focused on systems design, commerce infrastructure, language tech and AI-native 
 
 <div align="center">
 
-<img height="190" src="https://github-readme-stats.vercel.app/api?username=kamelot-exe&show_icons=true&hide_border=true&bg_color=00000000&title_color=C86B3C&text_color=B8B2C8&icon_color=C86B3C&ring_color=C86B3C&cache_seconds=3600&include_all_commits=true" />
-<img height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamelot-exe&layout=compact&hide_border=true&bg_color=00000000&title_color=C86B3C&text_color=B8B2C8&hide=dart&cache_seconds=3600&langs_count=8" />
+<img height="190" src="https://github-readme-stats.vercel.app/api?username=kamelot-exe&show_icons=true&hide_border=true&bg_color=00000000&title_color=C86B3C&text_color=B8B2C8&icon_color=C86B3C&ring_color=C86B3C&cache_seconds=1800&include_all_commits=true" />
+<img height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamelot-exe&layout=compact&hide_border=true&bg_color=00000000&title_color=C86B3C&text_color=B8B2C8&hide=dart&cache_seconds=1800&langs_count=8" />
 
 </div>
 
