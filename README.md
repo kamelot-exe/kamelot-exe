@@ -72,7 +72,7 @@ It is built as a lightweight alternative to bloated finance products and is mean
 <h3 align="left"><span style="color:#8D6A9F;">Kamelot Keyboard</span></h3>
 
 <h3 align="left">
-Kamelot Keyboard is a private, deeply customizable Android keyboard built for people who want more control over how typing feels, looks, and works.<br/>
+Kamelot Keyboard is an Android keyboard project built for people who want more control over how typing feels, looks, and works.<br/>
 It combines privacy-first design, powerful gesture controls, modular profiles, and rich customization into one keyboard that can adapt to different workflows, apps, and preferences.
 </h3>
 
